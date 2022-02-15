@@ -6,7 +6,7 @@
 `p` : copy selected item to current dir\
 `v` : move selected item to current dir\
 `x` : delete\
-`\*` : make excecutable\
+`*` : make excecutable\
 `d` : display type\
 `?` : help\
 `space` : select\
