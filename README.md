@@ -2,21 +2,28 @@
 
 ### Commands
 
+`space` : select\
 `n` : new dir, file or symlink\
 `p` : copy selected item to current dir\
 `v` : move selected item to current dir\
 `x` : delete\
+`e` : editor\
 `*` : make excecutable\
 `d` : display type\
+`r` : bulk rename in vi\
+`.` : hidden files\
 `?` : help\
-`space` : select\
+`!` : console\
 `1`, `2`, `3`, `4` : tabs
+`tab` : change tabs
+`cntrl+r` : rename current
 
 ### Profile variables
 
-`NNN_BMS` : bookmarks\
-`NNN_PLUG` : plugins\
-`NNN_USE_EDITOR` : use editor\
+`EDITOR` :vim
+`NNN_BMS` : bookmarks list\
+`NNN_PLUG` : plugins list\
+`NNN_USE_EDITOR` : use editor number boolean\
 `NNN_COLORS` : colours
 
 ### cd on exit - bash and zsh
