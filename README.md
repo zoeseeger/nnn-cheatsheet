@@ -14,13 +14,13 @@
 `.` : hidden files\
 `?` : help\
 `!` : console\
-`1`, `2`, `3`, `4` : tabs
-`tab` : change tabs
-`cntrl+r` : rename current
+`1`, `2`, `3`, `4` : tabs\
+`tab` : change tabs\
+`cntrl+r` : rename current\
 
 ### Profile variables
 
-`EDITOR` :vim
+`EDITOR` :vim\
 `NNN_BMS` : bookmarks list\
 `NNN_PLUG` : plugins list\
 `NNN_USE_EDITOR` : use editor number boolean\
