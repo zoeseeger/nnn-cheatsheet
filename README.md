@@ -1,5 +1,7 @@
 # Cheatsheet for nnn file manager
 
+`alias nnn="nnn -deHr"`
+
 ### Commands
 
 `space` : select\
