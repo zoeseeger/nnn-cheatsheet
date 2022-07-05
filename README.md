@@ -16,7 +16,7 @@
 `!` : console\
 `1`, `2`, `3`, `4` : tabs\
 `tab` : change tabs\
-`cntrl+r` : rename current\
+`cntrl+r` : rename current
 
 ### Profile variables
 
