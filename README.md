@@ -30,8 +30,7 @@
 
 ### cd on exit - bash and zsh
 
-```n ()
-{
+```n () {
     # Block nesting of nnn in subshells
     if [ -n $NNNLVL ] && [ "${NNNLVL:-0}" -ge 1 ]; then
         echo "nnn is already running"
